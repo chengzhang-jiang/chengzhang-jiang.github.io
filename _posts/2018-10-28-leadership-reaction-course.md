@@ -28,5 +28,3 @@ Lessons here:
 8. Participation especially when it is hard. It is admirable that everyone tries their best to overcome fear for height for the sake of team. Additionally, brilliant ideas emerge from participation.
 
 I always think that the ultimate goal of teamwork is to make everyone feel pretty good about not only the outcomes but also the work they have done individually and collaboratively in the process. It also makes us feel so good to grow together. I can’t wait to leverage this experience to group projects and career. Again, I feel so fortunate to team up with you guys and best wishes to you all!
-
-![team](../assets/img/posts/p1_teamwork.jpg)
