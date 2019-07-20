@@ -26,7 +26,7 @@ seo:
 # NOTE: If you want to use Google Analytics for basic web tracking: Just uncomment and enter your UA-Code here.
 
 # If you are not using Google Analytics, please change 'google-ID' to an empty string
-google-analytics-ua: 'UA-112060364-3'
+google-analytics-ua: ''
 
 #-------------------------------
 # Disqus Section
@@ -40,33 +40,37 @@ disqus:
 # About Section
 
 about: >
-  # Portfolio Jekyll Theme
+  
+  # I aspire to let the data talk and make an impact.
 
-  This is a personal portfolio theme that I built from the ground up, using the [DevTips Starter Kit](http://devtipsstarterkit.com/) as a foundation for starting, and following closely the amazing tutorial by [Travis Neilson over at DevTips](https://www.youtube.com/watch?v=T6jKLsxbFg4&list=PL0CB3OvPhDA_STygmp3sDenx3UpdOMk7P). You can [check out the demo](lenpaul.github.io/portfolio-jekyll-theme/), and [fork the repository](https://github.com/LeNPaul/portfolio-jekyll-theme/fork), to get started.
-
+  Two years ago, working towards a Bachelor’s degree in Economics, I took a summer elective course *Introduction to Machine Learning*. That is how my data analytics journey began.
+  
+  
+  Fast-forwarding to the present, I find myself with a Master Science degree in Business Analytics from Emory University and plenty of valuable experiences in the data analytics field. I remember how excited I was seeing the impact my analysis makes on pricing as a Data Analytics intern at Yum! Brands. Even the details of the endless nights at Goizueta Business School I spent with teammates on *Marketing Analytics* projects are still vivid. I believe these experiences have made me love data more, enhanced my data expertise and will eventually lead to a professional data-driven career. I would love to share some projects I worked on to spread the charm of data analytics!
+  
+  
+  A little more about myself… I love challenges and always exploring new things! Exploring the world is one of my hobbies. Outdoor activities such as hiking, surfing and fishing are my favorites :)
+  
 contact: >
   # Contact
 
-  You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
+  Feel free to connect with me on LinkedIn! You may also contact me [through my email](mailto:chengzhangj@gmail.com) if you would be interested in further discussions on the projects :)
 
 #-------------------------------
 # Work Section
 
 projects:
-- {name: 'Project One', folder: 'proj-1', file: 'projects/proj-1.html'}
-- {name: 'Project Two', folder: 'proj-2', file: 'projects/proj-2.html'}
-- {name: 'Project Three', folder: 'proj-3', file: 'projects/proj-3.html'}
-- {name: 'Project Four', folder: 'proj-4', file: 'projects/proj-4.html'}
-- {name: 'Project Five', folder: 'proj-5', file: 'projects/proj-5.html'}
+- {name: 'Marketing Analytics', folder: 'proj-1', file: 'projects/proj-1.html'}
+- {name: 'Data Visualization', folder: 'proj-2', file: 'projects/proj-2.html'}
+- {name: 'Sports Analytics', folder: 'proj-3', file: 'projects/proj-3.html'}
+- {name: 'Machine Learning', folder: 'proj-4', file: 'projects/proj-4.html'}
 
 #-------------------------------
 # Contact Section
 
 social:
-- {icon: 'twitter', link: '#'}
-- {icon: 'instagram', link: '#'}
-- {icon: 'github', link: '#'}
-- {icon: 'linkedin', link: '#'}
-- {icon: 'envelope', link: 'mailto:#'}
+- {icon: 'github', link: 'https://github.com/chengzhang-jiang'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/chengzhang-jiang/'}
+- {icon: 'envelope', link: 'mailto:chengzhangj@gmail.com'}
 
 # social network icons available: 'twitter' / 'facebook' / 'github' / 'pinterest' 'google-plus' / 'linkedin' / 'youtube' / 'instagram' / 'dribbble' / 'behance' / 'soundcloud' / 'vine'
