@@ -81,6 +81,7 @@ Collaborative filtering (CF) is the most popular method for generating recommend
 [Codes](https://github.com/chengzhang-jiang/recommendation)
 
 * **Problem description**
+
 A leading supermarket chain in Portugal of over 400 stores in Lunitunia, sells over 10 thousand products in over 400 categories. 
 Pernalonga plans to invite one brand from the Shampoo and Hair Conditioner categories to participate in a personalized promotion campaign. Which brand should it invite?
 
@@ -171,7 +172,7 @@ If data on historical competitive pricing are available, it is best to incorpora
 
 * **Problem description**
 
-Your analytics consulting firm was selected by Pernalonga (the client) to adjust shelf prices to improve revenue. Pernalonga is constrained in resources to implement price changes to take effect in stores in the week of April 1-7, 2108 due to holidays in the week immediately preceding. 
+Your analytics consulting firm was selected by Pernalonga (the client) to adjust shelf prices to improve revenue. Pernalonga is constrained in resources to implement price changes to take effect in stores in the week of April 1-7, 2018 due to holidays in the week immediately preceding. 
 
 Specifically, it can only make price changes to the same 100 products across 2 categories (fresh products excluded) in 10 stores. As supplier-funded in-store temporary price reductions on products are still being negotiated, you can assume the same promotion schedule as the same week in 2017, i.e., timing and product temporary price reduction levels are the same for corresponding weeks in 2017 and 2018. 
 
